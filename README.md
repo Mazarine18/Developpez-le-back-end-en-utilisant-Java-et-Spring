@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ChaTop App
 ChaTop App is an application that allows users (future tenants) to contact 
 landlords via a matchmaking portal, for seasonal rentals on the Basque coast 
@@ -57,3 +58,60 @@ the following address: http://localhost:3001/api/swagger-ui/index.html#/
 
 ## Licensing
 This project was created by OpenClassrooms for the training course "Développeur Fullstack Java-Angular".
+=======
+# Estate
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
+
+## Start the project
+
+Git clone:
+
+> git clone https://github.com/OpenClassrooms-Student-Center/P3-Full-Stack-portail-locataire
+
+Go inside folder:
+
+> cd P3-Full-Stack-portail-locataire
+
+Install dependencies:
+
+> npm install
+
+Launch Front-end:
+
+> npm run start;
+
+
+## Ressources
+
+### Mockoon env
+
+Download Mockoon here: https://mockoon.com/download/
+
+After installing you could load the environement
+
+> ressources/mockoon/rental-oc.json
+
+directly inside Mockoon 
+
+> File > Open environmement
+
+For launching the Mockoon server click on play bouton
+
+Mockoon documentation: https://mockoon.com/docs/latest/about/
+
+### Postman collection
+
+For Postman import the collection
+
+> ressources/postman/rental.postman_collection.json 
+
+by following the documentation: 
+
+https://learning.postman.com/docs/getting-started/importing-and-exporting-data/#importing-data-into-postman
+
+
+### MySQL
+
+SQL script for creating the schema is available `ressources/sql/script.sql`
+>>>>>>> 949326b1c4efb2413572d5c07b2b82b98631b5ba
